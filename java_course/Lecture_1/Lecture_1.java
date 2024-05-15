@@ -1,4 +1,4 @@
-package java_course;
+package java_course.Lecture_1;
 
 import java.io.*;
 import java.nio.file.Files;
@@ -372,6 +372,25 @@ public class Lecture_1 {
 
 
     
+//=======================================================================================================================================================
+//============================================================LECTURE_2==================================================================================
+//=======================================================================================================================================================
+
+        // methods.clear();
+        // long startTime = System.currentTimeMillis();
+        // StringBuilder strBuilder = new StringBuilder();
+        // for (int i = 0; i < 1_000_000; i++) {
+        //     strBuilder.append("+");
+        // }
+        // String str = strBuilder.toString();
+        // // System.out.println(str);
+        // System.out.println(System.currentTimeMillis() - startTime);
+
+        
+        // String str1 = "abc";        
+        // String str2 = "abe";
+        // int result = str1.compareTo(str2);      // Сравнивает строки по-символьно. a = 1, b = 2, c = 3... "abc".compareTo("abe") => -2 (c = 3, e = 5) => 3-5 = -2
+        // System.out.println(result);
 
     }
 }
